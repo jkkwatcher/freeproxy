@@ -8,8 +8,6 @@ import (
 	"net/url"
 	"time"
 
-	"github.com/soluchok/go-cloudflare-scraper"
-
 	"github.com/soluchok/gokogiri"
 )
 
