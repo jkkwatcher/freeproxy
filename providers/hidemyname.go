@@ -8,8 +8,8 @@ import (
 	"net/url"
 	"time"
 
+	scraper "github.com/VTGare/go-cloudflare-scraper"
 	"github.com/soluchok/gokogiri"
-	"github.com/cardigann/go-cloudflare-scraper"
 )
 
 type HidemyName struct {
