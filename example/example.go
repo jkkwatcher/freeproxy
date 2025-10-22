@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/soluchok/freeproxy"
+	"github.com/jkkwatcher/freeproxy"
 )
 
 func main() {
