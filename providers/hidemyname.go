@@ -9,6 +9,7 @@ import (
 	"time"
 
 	"github.com/soluchok/gokogiri"
+	"github.com/cardigann/go-cloudflare-scraper"
 )
 
 type HidemyName struct {
