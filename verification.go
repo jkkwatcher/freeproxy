@@ -9,7 +9,7 @@ import (
 	"strings"
 
 	"github.com/sirupsen/logrus"
-	"github.com/soluchok/freeproxy/providers"
+	"github.com/jkkwatcher/freeproxy/providers"
 )
 
 type checkIP struct {
