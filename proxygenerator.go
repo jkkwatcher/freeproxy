@@ -8,7 +8,7 @@ import (
 
 	"github.com/patrickmn/go-cache"
 	"github.com/sirupsen/logrus"
-	"github.com/soluchok/freeproxy/providers"
+	"github.com/jkkwatcher/freeproxy/providers"
 )
 
 var (
