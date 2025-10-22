@@ -3,7 +3,7 @@ package providers_test
 import (
 	"testing"
 
-	"github.com/soluchok/freeproxy/providers"
+	"github.com/jkkwatcher/freeproxy/providers"
 )
 
 var decodeParams = "a=0;s=1;d=2;f=3;g=4;h=5;j=6;k=7;l=8;z=9;"
