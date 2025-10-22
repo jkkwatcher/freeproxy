@@ -1,4 +1,4 @@
-module github.com/soluchok/freeproxy
+module github.com/jkkwatcher/freeproxy
 
 go 1.22
 
