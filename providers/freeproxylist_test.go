@@ -3,7 +3,7 @@ package providers_test
 import (
 	"testing"
 
-	"github.com/soluchok/freeproxy/providers"
+	"github.com/soluchok/jkkwatcher/providers"
 )
 
 var fp = providers.NewFreeProxyList()
